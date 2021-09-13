@@ -30,5 +30,4 @@ int multiply(int num1, int num2){
     } else{
         return split(num1, num2);
     }
-    return 0;
 }
